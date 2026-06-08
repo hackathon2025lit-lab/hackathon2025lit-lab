@@ -19,9 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding">
 
 ```python
 class MohanrajE:
@@ -49,16 +47,6 @@ class MohanrajE:
     def motto(self):
         return "Build. Learn. Repeat."
 ```
-
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
-
-</td>
-</tr>
-</table>
 
 ### 🎯 Quick Facts
 
