@@ -19,47 +19,41 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding">
+<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```python
 class MohanrajE:
     def __init__(self):
-        self.name = "Mohanraj E"
-        self.location = "Chennai, Tamil Nadu, India"
-        self.degree = "B.Tech - AI & Data Science"
-        self.college = "Loyola Institute of Technology"
-        self.cgpa = 9.07
+        self.name     = "Mohanraj E"
+        self.location = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.degree   = "B.Tech - AI & Data Science"
+        self.college  = "Loyola Institute of Technology"
+        self.cgpa     = 9.07
 
-        self.skills = [
-            "Python",
-            "Java (Basics)",
-            "HTML",
-            "CSS",
-            "JavaScript"
+        self.stack = [
+            "Python", "Java (basics)",
+            "HTML", "CSS", "JavaScript",
         ]
 
         self.learning = [
             "Machine Learning",
             "Data Analytics",
-            "Full Stack Development"
+            "Full-Stack Web Dev",
         ]
 
+        self.fun_fact = "Presented research at MESMT 2026 🔍"
+
     def motto(self):
-        return "Build. Learn. Repeat."
+        return "Build. Learn. Repeat. 🚀"
+
+me = MohanrajE()
+print(me.motto())
 ```
 
-### 🎯 Quick Facts
+<br clear="right"/>
 
-- 🎓 B.Tech AI & Data Science
-- 🏫 Loyola Institute of Technology, Chennai
-- 📊 Current CGPA: **9.07**
-- 🤖 Interested in AI, ML & Data Analytics
-- 🚀 Building Real-World Projects
-- 🏅 Presented **Fake Review Detector** at MESMT Conference 2026
-- ⚡ Smart India Hackathon Participant
-- 🌱 Currently learning Full Stack Development & Cloud Computing
+---
 
-> 💡 **Build. Learn. Repeat.**
 ## 🛠️ Tech Stack
 
 **Languages**
