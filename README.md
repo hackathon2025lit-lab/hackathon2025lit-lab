@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
 
 ```python
 class MohanrajE:
@@ -50,7 +50,7 @@ me = MohanrajE()
 print(me.motto())
 ```
 
-<br clear="right"/>
+<div align="center"></div>
 
 ---
 
